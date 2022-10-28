@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="29.739">
+    <testcase classname="Add New Customer Functionality" name="Validate the customer Add and Remove Functionality" time="29.372">
+        <system-out><![CDATA[Given load brow and hit url.................................................passed
+When click bank manager login...............................................passed
+And click add new customer..................................................passed
+When enter customer details and click add...................................passed
+And click on customers......................................................passed
+Then validate the customer added or not.....................................passed
+When click on the delete button.............................................passed
+Then check for the customer is removed or not...............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
